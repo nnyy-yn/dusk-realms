@@ -6,7 +6,7 @@
 
 **[前往最新版本，下载免安装 Windows EXE](https://github.com/nnyy-yn/dusk-realms/releases/latest)**
 
-在 Release 的 **Assets（资源）** 中下载 `暮野诸国-版本号-Windows-x64.exe`，双击即可游玩。无需安装 Node.js 或另外搭建服务器。适用于 Windows 10/11 64 位和支持 WebGL 2 的显卡。首次打开会在临时目录解压运行环境。
+在 Release 的 **Assets（资源）** 中下载 `DuskRealms-版本号-Windows-x64.exe`，双击即可游玩。无需安装 Node.js 或另外搭建服务器。适用于 Windows 10/11 64 位和支持 WebGL 2 的显卡。首次打开会在临时目录解压运行环境。
 
 单人模式可以离线游玩；与朋友联机需要网络。首次发布版为 **v1.2.0「使节与学者」**。
 
