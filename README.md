@@ -1,10 +1,10 @@
 # 暮野诸国 / Dusk Realms
 
-正式版 **1.66.0「村庄生产区」**：重塑村舍、农庄、伐木场和采石场，并整合此前集市、粮仓、医馆与市政建筑改进；加入经济设施补岗、冬季粮仓补岗、救治安排、维修建材保留和商队撤回，优化人物冷建模。
+正式版 **1.77.0「研究计划」**加入科技预排、农庄灌溉、常备采购和联合训练，更新多个时代的建筑及地图材质。联机新增同阵营聊天、开局前连接检测、指令回执和客方暂停请求。
 
-[下载免安装EXE](https://github.com/nnyy-yn/dusk-realms/releases/download/v1.66.0/DuskRealms-1.66.0-Windows-x64.exe) · [更新说明](https://github.com/nnyy-yn/dusk-realms/releases/tag/v1.66.0) · [SHA-256校验](https://github.com/nnyy-yn/dusk-realms/releases/download/v1.66.0/SHA256SUMS.txt)
+[下载 Windows x64 免安装版](https://github.com/nnyy-yn/dusk-realms/releases/download/v1.77.0/DuskRealms-1.77.0-Windows-x64.exe) · [更新说明](https://github.com/nnyy-yn/dusk-realms/releases/tag/v1.77.0) · [SHA-256 校验](https://github.com/nnyy-yn/dusk-realms/releases/download/v1.77.0/SHA256SUMS.txt)
 
-下载后直接运行，无需安装开发环境。旧玩家请先保存并关闭旧版，再运行新版，继续使用原存档目录；单人可离线游玩，联机双方须使用1.66.0。本版沿用已验收本地预览的同一EXE字节，[历史正式版](https://github.com/nnyy-yn/dusk-realms/releases)继续保留。
+下载后直接运行。更新前请保存并关闭旧版。联机玩家请使用同一版本。
 
 ## 开始游玩
 
